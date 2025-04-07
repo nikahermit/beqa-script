@@ -1,5 +1,5 @@
-deff adfd(a, b):
-    retufrn a + b
+def add(a, b):
+    return a + b
 
-deff subtracft(a, b):
-    refturn a - b
+def subtract(a, b):
+    return a - b
